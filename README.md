@@ -19,10 +19,3 @@ This is a simple "Catch The Turtle" game developed using Python's Turtle module.
 - Countdown timer
 - Game over screen
 
-## Technologies
-- Python
-- Turtle module
-
-## How to Run
-```bash
-python catch_the_turtle.py
